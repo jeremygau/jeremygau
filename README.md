@@ -51,7 +51,7 @@
 
 [Dino color](https://jeremygau.fr/dino)
 
-[Calculatrie](htts://jeremygau.fr/Caculatrice)
+[Calculatrice](https://jeremygau.fr/Caculatrice)
 
 [Tutorat Associatif Marseillais](http://tutorat-marseille.fr)
 	
