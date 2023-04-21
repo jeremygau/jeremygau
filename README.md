@@ -27,7 +27,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-- [x] Astro
+![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
 
 ### DevOps
 
