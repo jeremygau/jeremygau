@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 # Jérémy GAU
 
 ## À propos de moi
@@ -64,5 +62,3 @@ Je suis développeur fullstack et devops.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-gau-a203721b9/)
 
 [Mon site web](https://jeremygau.fr)
-
-</div>
