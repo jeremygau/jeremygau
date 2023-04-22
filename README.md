@@ -1,8 +1,10 @@
+<div style="text-align:center">
+
 # Jérémy GAU
 
 ## À propos de moi
 
-
+Je suis développeur fullstack et devops.
 
 ## Compétences
 
@@ -43,18 +45,24 @@
 ## Projets
 
 [Liste de courses](https://courses.jeremygau.fr)
+![Liste de courses](assets/liste_de_courses.png)
 
 [Sliders](https://sliders.jeremygau.fr)
+![Sliders](assets/sliders.png)
 
-[Dino color](https://jeremygau.fr/dino)
+[Dino color](https://www.jeremygau.fr/dino)
+![Dino color](assets/dinocolor.png)
 
-[Calculatrice](https://jeremygau.fr/Caculatrice)
+[Calculatrice](https://www.jeremygau.fr/Calculatrice)
+![caluculatrice](assets/calculatrice.png)
 
 [Tutorat Associatif Marseillais](http://tutorat-marseille.fr)
-	
+![TAM](assets/tam.png)	
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-gau-a203721b9/)
 
 [Mon site web](https://jeremygau.fr)
+
+</div>
