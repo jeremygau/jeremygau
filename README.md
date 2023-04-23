@@ -2,7 +2,9 @@
 
 ## À propos de moi
 
-Je suis développeur fullstack et devops.
+Je suis étudiant en Master informatique. Mes hobbies sont jouer avec l'informatique, le vélo,
+l'escalade et le ski.
+Je parle le français, l'anglais et l'espagnol.
 
 ## Compétences
 
